@@ -26,9 +26,9 @@ Participants received a set of sequences of [Sentinel-2 satellite](https://senti
 
 ## How can I download the dataset? 
 
-You can get the first version of the dataset, that was part of the Multimedia Satellite Task 2019, from here:
-* the Development set can be downloaded [here](https://cloud.dfki.de/owncloud/index.php/s/5w9bNHTF7iL2Xze).
-* the Test set can be downloaded [here](https://cloud.dfki.de/owncloud/index.php/s/saaoFiZXLxpq7NW).
+You can get the first version of the dataset, that was part of the Multimedia Satellite Task 2019, here:
+* [Development set](https://cloud.dfki.de/owncloud/index.php/s/5w9bNHTF7iL2Xze)
+* [Test set](https://cloud.dfki.de/owncloud/index.php/s/saaoFiZXLxpq7NW)
 
 
 **Please note:**
@@ -80,7 +80,7 @@ Since we provide Level 2A atmospheric corrected images, the timeseries tiff file
 * Nicolas Ventulett, Vision Impulse, Germany
 --> 
 
-## How can I cite the work?
+## How can I cite this work?
 
 Please cite us with the following bibtex, if you use this dataset in your work or research:
 ```
@@ -97,6 +97,7 @@ Please cite us with the following bibtex, if you use this dataset in your work o
 If you need help or have any questions please contact Benjamin Bischke (firstname.lastname at dfki.de).
 
 <!--
+Credits: Task organizers and auxiliaries of the Multimedia Satellite Task 2020
 ## Is there a list of related work?
 The following authors developed methods to work with the dataset:
 * Author 1
